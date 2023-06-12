@@ -6,6 +6,17 @@ Aula de Git Hub 12/06/2023
 
 <b> Sesc Londrina Centro </b>
 
+<hr>
+<hr>
+
+Aula de Informática - produção do README
+
+Turma do 2ºSESC-Informática
+
+<hr>
+**GitHub**
+_GitHub_
+
 <!--
 **marceloyysenac/marceloyysenac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

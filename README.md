@@ -18,10 +18,11 @@ Aula de Informática - produção do README
 ** GitHub **
 
 <br>
+
 1. Aula1
 0. Aula2
 1. Aula3
-2. 
+
 _GitHyb_
 
 - [ ] opção 1

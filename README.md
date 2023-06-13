@@ -14,11 +14,14 @@ Aula de Informática - produção do README
 <p align="center">Turma do 2ºSESC-Informática</p>
 
 <hr>
+
 ** GitHub **
+
 <br>
 1. Aula1
 0. Aula2
 1. Aula3
+2. 
 _GitHyb_
 
 - [ ] opção 1

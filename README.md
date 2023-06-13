@@ -15,7 +15,7 @@ Aula de Informática - produção do README
 
 <hr>
 
-* GitHub *
+**GitHub**
 
 <br>
 
@@ -30,7 +30,9 @@ _GitHyb_
 - [ ] opção 3
 
 # Título 1
--
+
+~~Tachado~~
+
 [senac](https://www.senac.com.br)
 -
 <img src="mario.png">

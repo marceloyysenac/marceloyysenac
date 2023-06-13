@@ -11,7 +11,7 @@ Aula de Git Hub 12/06/2023
 
 Aula de Informática - produção do README
 
-Turma do 2ºSESC-Informática
+<p align="center">Turma do 2ºSESC-Informática</p>
 
 <hr>
 ** GitHub **
